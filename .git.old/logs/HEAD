@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 9fae783311f7f7af4c785d1a3dc4d41129c71c6b Luan Reis <luanreis2202@gmail.com> 1650284308 -0300	commit (initial): initial commit
+9fae783311f7f7af4c785d1a3dc4d41129c71c6b 4bc353fea94f81b7dc3937a31f1ee06ffc23dcaf Luan Reis <luanreis2202@gmail.com> 1650371048 -0300	commit: Criando projeto angular
+4bc353fea94f81b7dc3937a31f1ee06ffc23dcaf 0000000000000000000000000000000000000000 Luan Reis <luanreis2202@gmail.com> 1650371064 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4bc353fea94f81b7dc3937a31f1ee06ffc23dcaf Luan Reis <luanreis2202@gmail.com> 1650371064 -0300	Branch: renamed refs/heads/master to refs/heads/main
+4bc353fea94f81b7dc3937a31f1ee06ffc23dcaf 7090c958ddebe3f1bd05e3d5dd64bff190194982 Luan Reis <luanreis2202@gmail.com> 1650375714 -0300	commit: Criando componentes e estilizando-os
+7090c958ddebe3f1bd05e3d5dd64bff190194982 8ab08f72bc34c4cba2934d8b163a7165e2091d97 Luan Reis <luanreis2202@gmail.com> 1650389869 -0300	commit: categorias GET e estilização da pagina
+8ab08f72bc34c4cba2934d8b163a7165e2091d97 51ec136bec8c023ae1eebe0639bf355a408fd423 Luan Reis <luanreis2202@gmail.com> 1651120401 -0300	commit: Componentes de Categorie READ e CREATE - 1/2 DONE
+51ec136bec8c023ae1eebe0639bf355a408fd423 968fc1d64ee0fe3ffde8ad1fe1472266fb920410 Luan Reis <luanreis2202@gmail.com> 1651170111 -0300	commit: Componente categoria CREATE , todo:DELETE,UPDATE E LIVROS
+968fc1d64ee0fe3ffde8ad1fe1472266fb920410 fa8e0abc96c3e805d5878f40246853dc26a79605 Luan Reis <luanreis2202@gmail.com> 1651175276 -0300	commit: Componente categoria delete
+fa8e0abc96c3e805d5878f40246853dc26a79605 5258a335fdb13dd4a5b509b18309b0e28307fdab Luan Reis <luanreis2202@gmail.com> 1651177136 -0300	commit: Update de categoria concluido
+5258a335fdb13dd4a5b509b18309b0e28307fdab 50b061ba32e7f49c299b15a0cc381544d54d301a Luan Reis <luanreis2202@gmail.com> 1651177649 -0300	commit: Estilização
+50b061ba32e7f49c299b15a0cc381544d54d301a 19d89e34ab3cd70ac0e0ef1ae1481d46cc898102 Luan Reis <luanreis2202@gmail.com> 1652976017 -0300	commit: Correções na estilização
+19d89e34ab3cd70ac0e0ef1ae1481d46cc898102 8c06051343b05eff3c57e8b054d60dfcd3f277a7 Luan Reis <luanreis2202@gmail.com> 1653224977 -0300	commit: Create livro concluido
+8c06051343b05eff3c57e8b054d60dfcd3f277a7 dc454f9161ab3713fd0d5c52e9dcf5e30efc6159 Luan Reis <luanreis2202@gmail.com> 1653225163 -0300	commit: Botão para voltar na criação de livro
+dc454f9161ab3713fd0d5c52e9dcf5e30efc6159 8f64e7c6d988a41b0ce9f48bdc71d41961a5e19b Luan Reis <luanreis2202@gmail.com> 1653258792 -0300	commit: Component livro update 1/2 concluido
+8f64e7c6d988a41b0ce9f48bdc71d41961a5e19b ef28628ff3cdb418b662b595976438e6786f58be Luan Reis <luanreis2202@gmail.com> 1653307655 -0300	commit: PUT de livros concluido
+ef28628ff3cdb418b662b595976438e6786f58be fc383a91c4bbc48d03b332e0d0288c35a9239f86 Luan Reis <luanreis2202@gmail.com> 1653309586 -0300	commit: Delete de livro concluido
+fc383a91c4bbc48d03b332e0d0288c35a9239f86 7d8f098528fee4d4dc016d2fea103ee3ce21c58b Luan Reis <luanreis2202@gmail.com> 1653310897 -0300	commit: Read de livro
